@@ -1,0 +1,13 @@
+/**app.wxss**/
+
+.container {
+  box-sizing: border-box;
+}
+
+.text-center {
+  text-align: center;
+}
+
+view {
+  box-sizing: border-box;
+}

@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "black",
+    "navigationBarTitleText": "安全健康与环保",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": false
+  }
+}
